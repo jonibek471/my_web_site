@@ -1,1 +1,1 @@
-web: gunicorn grand_platforma.wsgi
+web: gunicorn wsgi
